@@ -1,0 +1,5 @@
+/.metadata/
+Jenkins-test-demo/.gitignore
+Jenkins-test-demo/mvnw.cmd
+Jenkins-test-demo/mvnw
+Jenkins-test-demo/.mvn/
