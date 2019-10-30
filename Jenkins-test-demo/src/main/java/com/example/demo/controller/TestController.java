@@ -9,6 +9,6 @@ public class TestController {
 	@PostMapping("/test")
 	public String test() {
 		
-		return "test it";
+		return "test it  again";
 	}
 }
